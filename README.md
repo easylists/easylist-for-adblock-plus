@@ -21,3 +21,5 @@ https://raw.githubusercontent.com/easylists/easylist-for-adblock-plus/master/eas
 How to Use this Easylist?
 Open your AdBlock Plus (ABP) from your browser, go to Filter Prefrences, click on Add Filter Subscription and then click on Add different filter. 
 Insert the above download link. that's it.
+
+tags: adblock adblock-plus adblock-list adblock-lists easylist easylist-malware ublock-origin easylist-english adblocker github-pages github browser-plugin privacy-online download easylist-download malwares-domains privacy filterlist adblocking ad-blocker 
